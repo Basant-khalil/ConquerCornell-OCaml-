@@ -22,4 +22,4 @@ Harness the power of your intellect, devise brilliant strategies, and outmaneuve
 Remember, only the most formidable player will emerge triumphant. Embark on this exhilarating journey and let the battle for Cornell🐻 begin!
 
 Gameplay:
-![alt tag](https://i.gyazo.com/f59fd44e41ad9469221753baaa4d6f3e.png)
+![alt tag](images/img.png)
