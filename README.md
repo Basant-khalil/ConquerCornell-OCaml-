@@ -3,11 +3,6 @@
 Occupy Cornell
 
 
-Snigdha Kasi (sk2485),
-Katherine Bau (kb577),
-Juan Garcia (jg845),
-Deniz Yilmazer (dy223)
-
 
 Hello and welcome to Occupy Cornell!! 
 
